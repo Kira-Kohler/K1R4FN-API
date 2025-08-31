@@ -1,0 +1,1171 @@
+{
+    "parentLinks": [
+        {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "set_blastberry_playlists",
+            "linkType": "ModeSet",
+            "metadata": {
+                "lobby_background_image_urls": {
+                    "url": "https://cdn2.unrealengine.com/mkart-reloadlobby-4096x2048-674128048cc6.jpg"
+                },
+                "image_url": "https://cdn2.unrealengine.com/fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-57819e4a5536.jpg",
+                "rotation": [
+                    {
+                        "duration": 1200,
+                        "subtitle": "Adventure with your ex",
+                        "alt_subtitle": {
+                            "de": "Abenteuer mit deinem Ex",
+                            "ru": "Приключение с твоим бывшим",
+                            "ko": "전 애인과의 모험",
+                            "zh-hant": "和前任的冒險",
+                            "pt-BR": "Aventura com seu ex",
+                            "zh-hans": "和前任的冒险",
+                            "it": "Avventura con il tuo ex",
+                            "fr": "Aventure avec ton ex",
+                            "es": "Aventura con tu ex",
+                            "ar": "مغامرة مع حبيبك السابق",
+                            "vi": "Cuộc phiêu lưu với người yêu cũ",
+                            "th": "ผจญภัยกับแฟนเก่า",
+                            "ja": "元カレ・元カノとの冒険",
+                            "id": "Petualangan dengan mantanmu",
+                            "pl": "Przygoda z twoim ex",
+                            "es-419": "Aventura con tu ex",
+                            "tr": "Eski sevgilinle macera"
+                        },
+                        "sub_image_url": "https://cdn2.unrealengine.com/fnreload-og-selection-628x512-0c59c26d6200.jpg"
+                    },
+                    {
+                        "duration": 1200,
+                        "subtitle": "Seminal Fury",
+                        "alt_subtitle": {
+                            "de": "Seminale Wut",
+                            "ru": "Семенная ярость",
+                            "ko": "정액 분노",
+                            "zh-hant": "精液之怒",
+                            "pt-BR": "Fúria Seminal",
+                            "zh-hans": "精液之怒",
+                            "it": "Furia Seminale",
+                            "fr": "Fureur Seminale",
+                            "es": "FURIA SEMINAL",
+                            "ar": "الغضب المنوي",
+                            "vi": "Cơn Thịnh Nộ Tinh Dịch",
+                            "th": "ความเดือดดาลเชื้ออสุจิ",
+                            "ja": "精液の怒り",
+                            "id": "Amarah Seminal",
+                            "pl": "Furia Nasienna",
+                            "es-419": "Furia Seminal",
+                            "tr": "Meni Öfkesi"
+                        },
+                        "sub_image_url": "https://cdn2.unrealengine.com/mkart-reload-dashberry-env-screenshots-lighting-v4-3-map-nostarterisland-628x512-007b5edb09bb.jpg",
+                        "sub_link_codes": {
+                            "playlist_sunflowersolo": "playlist_dashberrysolo",
+                            "playlist_sunflowerduo": "playlist_dashberryduo",
+                            "playlist_sunflowersquad": "playlist_dashberrysquad"
+                        }
+                    },
+                    {
+                        "duration": 1200,
+                        "subtitle": "The Squid Game",
+                        "alt_subtitle": {
+                            "de": "Das Spiel des Tintenfischs",
+                            "ru": "Игра в кальмара",
+                            "ko": "오징어 게임",
+                            "zh-hant": "魷魚遊戲",
+                            "pt-BR": "O Jogo da Lula",
+                            "zh-hans": "鱿鱼游戏",
+                            "it": "Il Gioco del Calamaro",
+                            "fr": "Le Jeu du Calamar",
+                            "es": "ER JUEGO DEL CALAMAR",
+                            "ar": "لعبة الحبار",
+                            "vi": "Trò Chơi Con Mực",
+                            "th": "เกมปลาหมึก",
+                            "ja": "イカゲーム",
+                            "id": "Permainan Cumi",
+                            "pl": "Gra w Kałamarnicę",
+                            "es-419": "Er Juego del Calamar",
+                            "tr": "Kalamar Oyunu"
+                        },
+                        "sub_image_url": "https://cdn2.unrealengine.com/timberstakemapimage-720x405-78453f33096e.jpg",
+                        "sub_link_codes": {
+                            "playlist_sunflowersolo": "playlist_timberstakesolo",
+                            "playlist_sunflowerduo": "playlist_timberstakeduo",
+                            "playlist_sunflowersquad": "playlist_timberstakesquad"
+                        }
+                    }
+                ],
+                "genre_labels": [
+                    "Battle Royale"
+                ],
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-ceaab2bd6927.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-c7f4d2b7f7de.jpg",
+                    "url": "https://cdn2.unrealengine.com/fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-57819e4a5536.jpg"
+                },
+                "title": "Reload",
+                "video_vuid": "hHeqlIEpwoDzWzEmkK",
+                "predownload_link_codes": [
+                    "9725-4954-0946",
+                    "6990-4594-4017",
+                    "0794-7216-8184",
+                    "3329-7199-7901"
+                ],
+                "sub_link_codes": [
+                    "playlist_sunflowersolo",
+                    "playlist_sunflowerduo",
+                    "playlist_sunflowersquad"
+                ],
+                "activated_public_date": "2025-07-23T00:00:00.000Z",
+                "alt_image_urls": {
+                    "de": {
+                        "url_s": "https://cdn2.unrealengine.com/de-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-a76cc01dce3f.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/de-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-518dd1f32c2c.jpg",
+                        "url": "https://cdn2.unrealengine.com/de-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-7be53dd28630.jpg"
+                    },
+                    "ru": {
+                        "url_s": "https://cdn2.unrealengine.com/ru-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-ce8a165de7a8.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/ru-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-c91df8fd65b1.jpg",
+                        "url": "https://cdn2.unrealengine.com/ru-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-7edf487194eb.jpg"
+                    },
+                    "ko": {
+                        "url_s": "https://cdn2.unrealengine.com/kr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-a9ac6455f1fb.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/kr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-15b311b4902b.jpg",
+                        "url": "https://cdn2.unrealengine.com/kr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-3b4a1fe4a48a.jpg"
+                    },
+                    "zh-hant": {
+                        "url_s": "https://cdn2.unrealengine.com/zhtw-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-07b534e90360.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/zhtw-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-af616281e771.jpg",
+                        "url": "https://cdn2.unrealengine.com/zhtw-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-28b4fe01f488.jpg"
+                    },
+                    "pt-BR": {
+                        "url_s": "https://cdn2.unrealengine.com/pt-br-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-f86ecd1b7a1b.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/pt-br-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-44ba541bc1c3.jpg",
+                        "url": "https://cdn2.unrealengine.com/pt-br-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-62f1993e186f.jpg"
+                    },
+                    "zh-hans": {
+                        "url_s": "https://cdn2.unrealengine.com/zhcn-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-6bde8b378ef3.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/zhcn-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-3ab853b87328.jpg",
+                        "url": "https://cdn2.unrealengine.com/zhcn-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-dc2efb21c17e.jpg"
+                    },
+                    "it": {
+                        "url_s": "https://cdn2.unrealengine.com/it-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-f748d256cef2.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/it-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-8c2f402602f1.jpg",
+                        "url": "https://cdn2.unrealengine.com/it-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-87cf6cc7f133.jpg"
+                    },
+                    "fr": {
+                        "url_s": "https://cdn2.unrealengine.com/fr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-8eae0e17c4c0.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-e55ec630ee27.jpg",
+                        "url": "https://cdn2.unrealengine.com/fr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-4e90f392d5bd.jpg"
+                    },
+                    "es": {
+                        "url_s": "https://cdn2.unrealengine.com/es-es-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-71e9ebcc964e.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/es-es-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-eb64e418a9aa.jpg",
+                        "url": "https://cdn2.unrealengine.com/es-es-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-5091c3d92984.jpg"
+                    },
+                    "ar": {
+                        "url_s": "https://cdn2.unrealengine.com/ar-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-0cae241a0c5b.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/ar-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-223b2135b28b.jpg",
+                        "url": "https://cdn2.unrealengine.com/ar-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-8b23ca921b9f.jpg"
+                    },
+                    "vi": {
+                        "url_s": "https://cdn2.unrealengine.com/vi-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-4d6ca5ca86f8.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/vi-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-cbf9e783d1be.jpg",
+                        "url": "https://cdn2.unrealengine.com/vi-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-cd7217a13b57.jpg"
+                    },
+                    "th": {
+                        "url_s": "https://cdn2.unrealengine.com/th-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-6e025fa07754.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/th-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-2bece53f385d.jpg",
+                        "url": "https://cdn2.unrealengine.com/th-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-d070b30c2b24.jpg"
+                    },
+                    "ja": {
+                        "url_s": "https://cdn2.unrealengine.com/jp-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-84b97bb2e66d.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/jp-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-1bf44b1984e2.jpg",
+                        "url": "https://cdn2.unrealengine.com/jp-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-4898c9d50e60.jpg"
+                    },
+                    "id": {
+                        "url_s": "https://cdn2.unrealengine.com/id-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-1482290d4de6.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/id-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-69378efe12f5.jpg",
+                        "url": "https://cdn2.unrealengine.com/id-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-dac734395147.jpg"
+                    },
+                    "pl": {
+                        "url_s": "https://cdn2.unrealengine.com/pl-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-baf4a3bc4be5.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/pl-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-78ffa1e86a00.jpg",
+                        "url": "https://cdn2.unrealengine.com/pl-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-8447340ee177.jpg"
+                    },
+                    "es-419": {
+                        "url_s": "https://cdn2.unrealengine.com/es-mx-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-99efd48b6e7c.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/es-mx-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-3ce3037befb5.jpg",
+                        "url": "https://cdn2.unrealengine.com/es-mx-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-12e49796683c.jpg"
+                    },
+                    "tr": {
+                        "url_s": "https://cdn2.unrealengine.com/tr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-480x270-480x270-177b8fbabe71.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/tr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-640x360-640x360-18c190cb7cd9.jpg",
+                        "url": "https://cdn2.unrealengine.com/tr-fnce-37-10-championsroad-surfwitch-reload-discoverplaylisttile-1920x1080-980811fd8025.jpg"
+                    }
+                },
+                "alt_title": {
+                    "de": "Reload",
+                    "ru": "Перезарядка",
+                    "ko": "리로드",
+                    "zh-hant": "火力全開",
+                    "pt-BR": "Reload",
+                    "zh-hans": "火力全开",
+                    "it": "Rientro",
+                    "fr": "Recharge",
+                    "es": "Recarga",
+                    "ar": "الإعادة",
+                    "vi": "Tái Chiến Thần Tốc",
+                    "th": "รีโหลด",
+                    "ja": "リロード",
+                    "id": "Reload",
+                    "pl": "Reaktywacja",
+                    "es-419": "Fortnite: Recarga",
+                    "tr": "Yeniden"
+                },
+                "block_cascading_data": "true",
+                "alt_tagline": {
+                    "de": "Fortnite Reload ist ein temporeiches Battle Royale-Spiel mit 40 Spielern, bei dem es darum geht, das Team zum Sieg zu führen.  Erhalte einen Neustart, solange noch ein Teammitglied im Spiel aktiv ist!  Sammle Beute nach dem Neustart, um wieder kampfbereit zu sein!  Eliminiere Gegner, um den Neustart deiner Teammitglieder zu beschleunigen!  Zum Ende des Matches hin gibt es keine Neustarts mehr. Trommle dein Team zusammen und holt euch den epischen Sieg!",
+                    "ru": "«Перезарядка» — динамичный бой в режиме «Королевской битвы» с участием 40 игроков, стремящихся привести свой отряд к победе.  Вы можете возрождаться, пока жив хотя бы один союзник! Ищите добычу после возрождения, чтобы вернуться в строй! Устраняйте противников, чтобы быстрее возрождать союзников!  Возрождения прекращаются незадолго до конца матча. Помогайте товарищам по отряду одержать королевскую победу!",
+                    "ko": "포트나이트 리로드는 40명의 플레이어가 참여하는 빠른 템포의 배틀로얄 게임입니다. 목표는 단 하나, 팀을 승리로 이끄는 것입니다.  단 한 명의 팀원이라도 살아남았다면 리부트할 수 있습니다!  리부트 후 전리품을 챙겨 다시 싸울 태세를 갖추세요!  다른 플레이어를 처치하면 팀원을 더 빠르게 리부트시킬 수 있습니다!  매치 막바지에 접어들면 리부트가 중단됩니다. 스쿼드와 함께 빅토리 로얄을 쟁취하세요!",
+                    "zh-hant": "Fortnite《火力全開》是一款 40 名玩家參與的快節奏《大逃殺》遊戲，目標是帶領小隊邁向勝利。 只要有隊友仍在戰鬥，就可以重啟！ 重啟後，多多搜刮，讓自己恢復戰鬥狀態！ 淘汰對手可以讓隊友更快重啟！ 對戰接近結束時，重啟將停止。與小隊緊密配合，爭取輝煌勝利！",
+                    "pt-BR": "Fortnite Reload é uma experiência frenética de Battle Royale para 40 pessoas em que o objetivo é levar seu esquadrão rumo à vitória.  Ressurja se ao menos uma pessoa da sua equipe ainda estiver no páreo!  Saqueie após ressurgir para voltar com tudo!  Elimine oponentes para reinicializar colegas de equipe mais rápido!  A reinicialização será desabilitada quando a partida estiver perto do fim. Sobreviva com seu esquadrão para garantir a Vitória Royale!",
+                    "zh-hans": "“Fortnite火力全开”是一个集结40名玩家的快节奏大逃杀游戏。你的目标是带领队伍走向胜利。 只要还有一名队友存活，就可以无限重生！ 重生后进行搜刮，快速恢复到战斗状态！ 淘汰对手来使队友更快重生！ 比赛临近结束时将无法重生。与小队紧密协作，争取大获全胜！",
+                    "it": "Fortnite Rientro è un adrenalinico gioco di Battaglia reale per 40 giocatori. Porta la tua squadra alla vittoria!  Finché hai almeno un compagno ancora in azione, potrai riavviarti!  Dopo il riavvio, accumula bottino per tornare in condizione di combattere!  Elimina avversari per riavviare più velocemente i compagni di squadra!  Verso la fine della partita non sarà più possibile riavviarsi. Rimani saldamente in squadra per assicurarti la Vittoria reale!",
+                    "fr": "Recharge est un mode Battle Royale à 40 joueurs au rythme soutenu, dans lequel vous devez porter votre équipe jusqu'à la victoire.  Tant qu'un équipier est encore en vie, vous pouvez revenir dans la partie ! À votre retour, récupérez du butin pour repartir au combat ! Éliminez des adversaires pour rétablir vos équipiers plus rapidement !  En fin de partie, les rétablissements s'arrêtent. Votre section doit tout donner pour décrocher la Victoire royale !",
+                    "es": "Recarga es un trepidante modo de juego de Battle Royale para 40 jugadores centrado únicamente en lograr la victoria junto a tu escuadrón.  ¡Podrás reaparecer siempre que algún miembro de tu equipo siga en pie!  ¡Acumula botín tras reiniciarte y vuelve rápidamente a la batalla!  ¡Elimina oponentes para reiniciar más rápido a tus compañeros!  Los reinicios se desactivarán cuando se acerque el final de la partida. ¡Resiste junto a tu escuadrón para lograr la victoria magistral!",
+                    "ar": "Fortnite الإعادة هي مواجهة باتل رويال سريعة الوتيرة مكونة من 40 لاعبًا وتتمحور حول قيادة الفريق نحو النصر. يمكنك العودة ما دام هناك زميل فريق في القتال! تزوّد بالغنائم بعد العودة لتكون مستعدًا للقتال مجددًا! اقضِ على الخصوم لتُعيد زملاء الفريق بشكل أسرع! ستتوقف الإعادات مع اقتراب نهاية المواجهة. اصمد مع فريقك لتحققوا الانتصار الملكي!",
+                    "vi": "Fortnite Tái Chiến Thần Tốc là một Cuộc Chiến Sinh Tồn tốc độ cao cho 40 người chơi, nơi bạn phải dẫn dắt cả biệt đội đến được Chiến Thắng.  Bạn có thể tái sinh miễn là còn một đồng đội chưa bị hạ!  Lên đồ sau khi tái sinh để trở lại trạng thái chiến đấu tốt nhất!  Hạ gục nhiều đối thủ để giúp đồng đội tái sinh nhanh hơn!  Khi gần kết thúc trận đấu, chế độ tái sinh sẽ dừng. Hợp lực cùng biệt đội của bạn để giành lấy Hào Quang Chiến Thắng ngay!",
+                    "th": "Fortnite Reload เป็นเกมแบทเทิลรอยัลจังหวะรวดเร็วดุเดือด โดยผู้เล่น 40 คนต้องพาทีมไปสู่ชัยชนะ ปลุกชีพได้เสมอหากยังมีสมาชิกทีมเหลือรอดอยู่! เก็บไอเทมเพิ่มเติมหลังถูกปลุกชีพเพื่อให้พร้อมลุยต่อ! กำจัดศัตรูให้ได้ แล้วจะปลุกชีพเพื่อนร่วมทีมได้เร็วขึ้น! ไม่สามารถปลุกชีพได้อีกต่อไปเมื่อใกล้จบแมตช์  รวมทีมให้พร้อม แล้วคว้าวิกตอรี่รอยัลมาครองให้ได้!",
+                    "ja": "「フォートナイト リロード」は40人のプレイヤー対応のバトルロイヤルゲーム。スクワッドを勝利へ導くことに焦点が当てられているぞ。  チームメイトが1人でも生き残っている限り、リブートできる！ リブート後は戦利品を集めて戦闘態勢を整えよう！ 敵を撃破すればチームメイトのリブートをスピードアップできる！  マッチの終盤ではリブートできなくなる。スクワッド全員でしっかり集中してVictory Royaleを達成しよう！",
+                    "id": "Fortnite Reload adalah game Battle Royale bertempo cepat dengan 40 pemain yang bertujuan membawa skuad menuju Kemenangan.  Reboot bisa dilakukan selama masih ada satu rekan tim yang bertahan!  Ambil semua jarahan setelah di-reboot agar siap tempur kembali!  Singkirkan lawan untuk mempercepat reboot rekan timmu!  Menjelang akhir pertandingan, reboot akan berhenti. Berjuanglah bersama skuadmu untuk meraih Victory Royale!",
+                    "pl": "Fortnite: Reaktywacja to dynamiczna 40-osobowa gra Battle Royale, w której wiedziesz drużynę do zwycięstwa.  Restartuj się, jeśli przy życiu pozostaje choćby jeden towarzysz!  Gromadź łupy po restarcie, by odzyskać formę bojową!  Likwiduj przeciwników, by szybciej restartować towarzyszy!  Pod koniec meczu restarty przestają działać. Zgraj się z oddziałem, by zdobyć Królewskie Zwycięstwo!",
+                    "es-419": "Fortnite: Recarga es un modo vertiginoso de Batalla campal para 40 jugadores donde lo único que importa es llevar al escuadrón a la victoria.  ¡Siempre que quede un miembro del equipo en pie, podrás reiniciarte!  ¡Abastécete tras reiniciarte y prepárate para la batalla!  ¡Elimina oponentes para reiniciar a tus compañeros más rápido!  Cerca del final de la partida, se detendrán los reinicios. ¡Mantegan la concentración y asegúren su victoria campal!",
+                    "tr": "Fortnite Yeniden, 40 oyunculu hızlı tempolu bir Battle Royale oyunudur ve amacı ekibi zafere taşımaktır.  Tek bir takım arkadaşın ayakta olduğu sürece canlanabilirsin!  Canlandıktan sonra savaşabilecek duruma gelmek için ganimet topla!  Takım arkadaşlarını daha hızlı canlandırmak için rakip avla!  Maçın sonlarına doğru canlandırmalar sonlanır. Azmin Zaferi'ni kazanmak için ekibinle hedefe odaklan!"
+                },
+                "ratings": {
+                    "rating_received_time": "2024-10-30T04:15:00.487Z",
+                    "boards": {
+                        "ACB": {
+                            "descriptors": [
+                                "ACB_Violence",
+                                "ACB_OnlineInteractivityAndChat_v10_0"
+                            ],
+                            "rating_overridden": true,
+                            "rating": "ACB_AGE_M",
+                            "initial_rating": "ACB_AGE_PG",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        },
+                        "PEGI": {
+                            "descriptors": [
+                                "PEGI_ModerateViolence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "PEGI_AGE_12",
+                            "initial_rating": "PEGI_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        },
+                        "Generic": {
+                            "descriptors": [
+                                "GEN_ModerateViolence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "GEN_AGE_12",
+                            "initial_rating": "GEN_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        },
+                        "ClassInd": {
+                            "descriptors": [
+                                "ClassInd_Violencia"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "CLASSIND_AGE_12",
+                            "initial_rating": "CLASSIND_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        },
+                        "GRAC": {
+                            "descriptors": [
+                                "GRAC_Violence_v7_1"
+                            ],
+                            "rating_overridden": true,
+                            "rating": "GRAC_AGE_12",
+                            "initial_rating": "GRAC_AGE_ALL",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        },
+                        "USK": {
+                            "descriptors": [
+                                "USK_FantasyGewalt_v9_0"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "USK_AGE_12",
+                            "initial_rating": "USK_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        },
+                        "ESRB": {
+                            "descriptors": [
+                                "ESRB_Violence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "ESRB_AGE_T",
+                            "initial_rating": "ESRB_AGE_T",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        },
+                        "Russia": {
+                            "descriptors": [
+                                "RUS_Violence_v7_0"
+                            ],
+                            "rating_overridden": true,
+                            "rating": "RUSSIA_AGE_12",
+                            "initial_rating": "RUSSIA_AGE_16",
+                            "interactive_elements": [
+                                "IE_UsersInteract"
+                            ]
+                        }
+                    }
+                },
+                "product_tag": "Product.BlastBerry.Build",
+                "ccu_source_links": [
+                    "playlist_sunflowersolo",
+                    "playlist_sunflowerduo",
+                    "playlist_sunflowersquad",
+                    "playlist_timberstakesolo",
+                    "playlist_timberstakeduo",
+                    "playlist_timberstakesquad",
+                    "playlist_dashberrysolo",
+                    "playlist_dashberryduo",
+                    "playlist_dashberrysquad"
+                ],
+                "tagline": "Fortnite Reload is a 40-player fast-paced Battle Royale game that is all about carrying the squad to Victory.   \r\nReboot as long as one teammate is still in the action!  \r\nLoot up after rebooting to get back into fighting shape!  \r\nEliminate opponents to reboot teammates faster! \r\nNear the end of the match, reboots will stop. Lock in with your squad to secure the Victory Royale!  ",
+                "extra_image_urls": [
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg"
+                    }
+                ],
+                "web_slug": "reload",
+                "category_labels": [
+                    "Battle Royale"
+                ],
+                "corresponding_sets": {
+                    "ranked": "set_habanero_blastberry_playlists"
+                },
+                "default_sub_link_code": "playlist_sunflowersquad"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-06-10T23:21:00.260Z",
+            "published": "2024-06-10T23:21:00.260Z",
+            "descriptionTags": [],
+            "moderationStatus": "Approved",
+            "lastActivatedDate": "2024-06-10T23:21:00.263Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "set_habanero_blastberry_playlists",
+            "linkType": "ModeSet",
+            "metadata": {
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/en-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-bb7ee953d26d.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/en-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-7639209c41ed.jpg",
+                    "url": "https://cdn2.unrealengine.com/en-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-ae999328e016.jpg"
+                },
+                "title": "Ranked for Sickos",
+                "video_vuid": "hHeqlIEpwoDzWzEmkK",
+                "matchmakingV2": {
+                    "ratingType": "ranked_blastberry_build",
+                    "isRanked": true
+                },
+                "activated_public_date": "2025-07-23T00:00:00.000Z",
+                "alt_tagline": {
+                    "de": "Wie das klassische Reload, aber mit ein wenig mehr, um das es sich zu kämpfen lohnt!  Tritt gegen andere Spieler mit ähnlichem Rang an. Stelle dein Können unter Beweis, schließe Herausforderungen ab, um Belohnungen zu erhalten, und klettere in der Rangliste nach oben.",
+                    "ru": "Классическая «Перезарядка», но теперь ставки повышены! Сражайтесь с равными по рейтингу игроками. Демонстрируйте свои навыки, получайте награды за выполнение испытаний и зарабатывайте рейтинг.",
+                    "ko": "클래식 리로드와 똑같지만, 플레이 보상이 조금 더 늘어났습니다!  랭크가 비슷한 플레이어와 싸우세요. 실력을 증명하고, 도전을 완료해 보상을 받고, 랭크를 올리세요!",
+                    "zh-hant": "類似於經典的《火力全開》，加入更多挑戰可供遊玩！ 與階位相當的其他玩家一較高下。展示技巧，完成挑戰獲得獎勵，並提升階位！",
+                    "pt-BR": "Como o Reload clássico, mas com algo a mais em jogo!  Enfrente outras pessoas de ranque similar ao seu. Mostre suas habilidades, conclua desafios para obter recompensas e suba de ranque.",
+                    "zh-hans": "类似于传统的火力全开模式，但趣味性更强！ 与其他段位相近的玩家一较高下吧。展示你的技艺，完成挑战获得奖励，提升段位。",
+                    "it": "Il classico Rientro, con qualche sorpresa in più!  Competi contro altri giocatori con posizioni simili alla tua. Sfoggia le tue abilità, completa le sfide per ottenere ricompense e scala le posizioni.",
+                    "fr": "Le mode Recharge classique, avec un peu plus d'enjeux ! Affrontez des joueurs de rang similaire. Montrez votre talent, accomplissez des défis pour obtenir des récompenses et faites monter votre rang.",
+                    "es": "¡Como Recarga clásico, pero con más premios en juego! Enfréntate a otros jugadores de rango similar. Demuestra tus habilidades, completa desafíos para obtener recompensas cosméticas y sube de rango.",
+                    "ar": "كما هو الحال مع الإعادة الكلاسيكية، مع حافز إضافي للعب! قاتل بكل قوتك ضد لاعبين آخرين من التصنيف نفسه. استعرض مهاراتك، وأكمل التحديات للحصول على المكافآت، وارتقِ في التصنيفات.",
+                    "vi": "Giống với chế độ Tái Chiến Thần Tốc kinh điển, nhưng người chơi có thêm mục tiêu để phấn đấu!  Đây là nơi để so tài với những người chơi khác có cùng thứ hạng. Hãy thể hiện kỹ năng cá nhân, hoàn thành các thử thách để nhận phần thưởng và thăng hạng cao hơn.",
+                    "th": "ไม่ต่างอะไรกับรีโหลดแบบเดิม เพิ่มเติมคือมีอะไรให้เล่นมากขึ้น! ต่อสู้สุดกำลังกับผู้เล่นคนอื่นๆ ที่มีแรงก์ใกล้เคียงกัน  โชว์ฝีมือ ทำภารกิจรับของรางวัล แล้วไต่แรงก์กันเลย",
+                    "ja": "クラシックなリロードだが、もう少し熱くなれる！ 同等ランクのプレイヤーたちに立ち向かえ。腕前を見せつけ、報酬獲得のためのチャレンジをクリアしながら、ランクを駆け上ろう。",
+                    "id": "Seperti Reload klasik, tapi dengan lebih banyak hal untuk dimainkan!  Bertarunglah melawan pemain lain dengan peringkat yang sama. Tunjukkan kemampuanmu, selesaikan tantangan untuk mendapatkan imbalan, dan tingkatkan peringkatmu.",
+                    "pl": "To jak klasyczny tryb Reaktywacja, ale daje więcej możliwości!  Wywalcz zwycięstwo wśród graczy o podobnej randze. Zaprezentuj umiejętności, wykonuj wyzwania z nagrodami i zdobywaj kolejne rangi.",
+                    "es-419": "Igual que Fortnite: Recarga clásico, ¡pero con más diversión! Lucha contra otros jugadores con una clasificación similar. Presume tus habilidades, completa desafíos para obtener recompensas y sube de clasificación.",
+                    "tr": "Aynı klasik Yeniden gibi ama birazcık daha heyecanlı!  Benzer derecelerdeki başka oyuncularla savaş. Yeteneklerini sergile, ödüller kazanmak için görevleri tamamla ve derecelerde yüksel."
+                },
+                "ratings": {
+                    "rating_received_time": "2024-12-02T16:12:06.03Z",
+                    "boards": {
+                        "ACB": {
+                            "descriptors": [
+                                "ACB_Violence",
+                                "ACB_OnlineInteractivityAndChat_v10_0",
+                                "ACB_InGamePurchases"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "ACB_AGE_M",
+                            "initial_rating": "ACB_AGE_M",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "PEGI": {
+                            "descriptors": [
+                                "PEGI_ModerateViolence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "PEGI_AGE_12",
+                            "initial_rating": "PEGI_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "Generic": {
+                            "descriptors": [
+                                "GEN_ModerateViolence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "GEN_AGE_12",
+                            "initial_rating": "GEN_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "ClassInd": {
+                            "descriptors": [
+                                "ClassInd_Violencia"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "CLASSIND_AGE_12",
+                            "initial_rating": "CLASSIND_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "GRAC": {
+                            "descriptors": [
+                                "GRAC_Violence_v7_1"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "GRAC_AGE_12",
+                            "initial_rating": "GRAC_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "USK": {
+                            "descriptors": [
+                                "USK_FantasyGewalt_v9_0"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "USK_AGE_12",
+                            "initial_rating": "USK_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "ESRB": {
+                            "descriptors": [
+                                "ESRB_Violence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "ESRB_AGE_T",
+                            "initial_rating": "ESRB_AGE_T",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "Russia": {
+                            "descriptors": [
+                                "RUS_Violence_v7_0"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "RUSSIA_AGE_12",
+                            "initial_rating": "RUSSIA_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        }
+                    }
+                },
+                "product_tag": "Product.BlastBerry.Habanero",
+                "ccu_source_links": [
+                    "playlist_habanero_sunflower_solo",
+                    "playlist_habanero_sunflower_duos",
+                    "playlist_habanero_sunflower_squads",
+                    "playlist_habanero_timberstake_duos",
+                    "playlist_habanero_timberstake_solo",
+                    "playlist_habanero_timberstake_squads",
+                    "playlist_habanero_dashberry_duos",
+                    "playlist_habanero_dashberry_solo",
+                    "playlist_habanero_dashberry_squads"
+                ],
+                "web_slug": "ranked-reload",
+                "corresponding_sets": {
+                    "unranked": "set_blastberry_playlists"
+                },
+                "lobby_background_image_urls": {
+                    "url": "https://cdn2.unrealengine.com/mkart-reloadlobby-4096x2048-674128048cc6.jpg"
+                },
+                "image_url": "https://cdn2.unrealengine.com/en-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-ae999328e016.jpg",
+                "rotation": [
+                    {
+                        "duration": 1200,
+                        "subtitle": "Adventure with your ex",
+                            "alt_subtitle": {
+                            "de": "Abenteuer mit deinem Ex",
+                            "ru": "Приключение с твоим бывшим",
+                            "ko": "전 애인과의 모험",
+                            "zh-hant": "和前任的冒險",
+                            "pt-BR": "Aventura com seu ex",
+                            "zh-hans": "和前任的冒险",
+                            "it": "Avventura con il tuo ex",
+                            "fr": "Aventure avec ton ex",
+                            "es": "Aventura con tu ex",
+                            "ar": "مغامرة مع حبيبك السابق",
+                            "vi": "Cuộc phiêu lưu với người yêu cũ",
+                            "th": "ผจญภัยกับแฟนเก่า",
+                            "ja": "元カレ・元カノとの冒険",
+                            "id": "Petualangan dengan mantanmu",
+                            "pl": "Przygoda z twoim ex",
+                            "es-419": "Aventura con tu ex",
+                            "tr": "Eski sevgilinle macera"
+                            },
+                        "sub_image_url": "https://cdn2.unrealengine.com/fnreload-og-selection-628x512-0c59c26d6200.jpg"
+                    },
+                    {
+                        "duration": 1200,
+                        "subtitle": "Seminal Fury",
+                        "alt_subtitle": {
+                            "de": "Seminale Wut",
+                            "ru": "Семенная ярость",
+                            "ko": "정액 분노",
+                            "zh-hant": "精液之怒",
+                            "pt-BR": "Fúria Seminal",
+                            "zh-hans": "精液之怒",
+                            "it": "Furia Seminale",
+                            "fr": "Fureur Seminale",
+                            "es": "FURIA SEMINAL",
+                            "ar": "الغضب المنوي",
+                            "vi": "Cơn Thịnh Nộ Tinh Dịch",
+                            "th": "ความเดือดดาลเชื้ออสุจิ",
+                            "ja": "精液の怒り",
+                            "id": "Amarah Seminal",
+                            "pl": "Furia Nasienna",
+                            "es-419": "Furia Seminal",
+                            "tr": "Meni Öfkesi"
+                        },
+                        "sub_image_url": "https://cdn2.unrealengine.com/mkart-reload-dashberry-env-screenshots-lighting-v4-3-map-nostarterisland-628x512-007b5edb09bb.jpg",
+                        "sub_link_codes": {
+                            "playlist_habanero_sunflower_duos": "playlist_habanero_dashberry_duos",
+                            "playlist_habanero_sunflower_solo": "playlist_habanero_dashberry_solo",
+                            "playlist_habanero_sunflower_squads": "playlist_habanero_dashberry_squads"
+                        }
+                    },
+                    {
+                        "duration": 1200,
+                        "subtitle": "The Squid Game",
+                        "alt_subtitle": {
+                            "de": "Das Spiel des Tintenfischs",
+                            "ru": "Игра в кальмара",
+                            "ko": "오징어 게임",
+                            "zh-hant": "魷魚遊戲",
+                            "pt-BR": "O Jogo da Lula",
+                            "zh-hans": "鱿鱼游戏",
+                            "it": "Il Gioco del Calamaro",
+                            "fr": "Le Jeu du Calamar",
+                            "es": "ER JUEGO DEL CALAMAR",
+                            "ar": "لعبة الحبار",
+                            "vi": "Trò Chơi Con Mực",
+                            "th": "เกมปลาหมึก",
+                            "ja": "イカゲーム",
+                            "id": "Permainan Cumi",
+                            "pl": "Gra w Kałamarnicę",
+                            "es-419": "El Juego del Calamar",
+                            "tr": "Kalamar Oyunu"
+                        },
+                        "sub_image_url": "https://cdn2.unrealengine.com/timberstakemapimage-720x405-78453f33096e.jpg",
+                        "sub_link_codes": {
+                            "playlist_habanero_sunflower_duos": "playlist_habanero_timberstake_duos",
+                            "playlist_habanero_sunflower_solo": "playlist_habanero_timberstake_solo",
+                            "playlist_habanero_sunflower_squads": "playlist_habanero_timberstake_squads"
+                        }
+                    }
+                ],
+                "genre_labels": [
+                    "Battle Royale"
+                ],
+                "unlockConditions": {
+                    "allOf": {
+                        "conditions": [
+                            {
+                                "id": "habanero_unlocked",
+                                "type": "profile"
+                            }
+                        ]
+                    },
+                    "partyEligibility": "EVERYONE"
+                },
+                "predownload_link_codes": [
+                    "9725-4954-0946",
+                    "6990-4594-4017",
+                    "0794-7216-8184",
+                    "3329-7199-7901"
+                ],
+                "sub_link_codes": [
+                    "playlist_habanero_sunflower_solo",
+                    "playlist_habanero_sunflower_duos",
+                    "playlist_habanero_sunflower_squads"
+                ],
+                "alt_image_urls": {
+                    "de": {
+                        "url_s": "https://cdn2.unrealengine.com/de-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-276a7baeb5e7.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/de-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-bcabb7284a8e.jpg",
+                        "url": "https://cdn2.unrealengine.com/de-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-e8065e099cf0.jpg"
+                    },
+                    "ru": {
+                        "url_s": "https://cdn2.unrealengine.com/ru-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-a14001244171.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/ru-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-f140ab975e58.jpg",
+                        "url": "https://cdn2.unrealengine.com/ru-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-00720a232184.jpg"
+                    },
+                    "ko": {
+                        "url_s": "https://cdn2.unrealengine.com/kr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-28a77406a9e4.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/kr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-405a9eaa0671.jpg",
+                        "url": "https://cdn2.unrealengine.com/kr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-0a1318526a15.jpg"
+                    },
+                    "zh-hant": {
+                        "url_s": "https://cdn2.unrealengine.com/zhcn-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-bcb11f17c211.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/zhcn-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-956967cb5d9b.jpg",
+                        "url": "https://cdn2.unrealengine.com/zhcn-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-11863b12e295.jpg"
+                    },
+                    "pt-BR": {
+                        "url_s": "https://cdn2.unrealengine.com/pt-br-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-9e73b5eb68c5.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/pt-br-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-54068423fea7.jpg",
+                        "url": "https://cdn2.unrealengine.com/pt-br-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-69afd57dc780.jpg"
+                    },
+                    "zh-hans": {
+                        "url_s": "https://cdn2.unrealengine.com/zhtw-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-7696af5ddde3.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/zhtw-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-4dfcf1b1d44f.jpg",
+                        "url": "https://cdn2.unrealengine.com/zhtw-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-fd03d5fae77b.jpg"
+                    },
+                    "it": {
+                        "url_s": "https://cdn2.unrealengine.com/it-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-6ca6e416e7b6.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/it-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-f6ae8868b287.jpg",
+                        "url": "https://cdn2.unrealengine.com/it-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-8cda5ff7fcb8.jpg"
+                    },
+                    "fr": {
+                        "url_s": "https://cdn2.unrealengine.com/fr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-12fee69508b1.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-0195ea3ce93a.jpg",
+                        "url": "https://cdn2.unrealengine.com/fr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-335d515d160e.jpg"
+                    },
+                    "es": {
+                        "url_s": "https://cdn2.unrealengine.com/es-es-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-f14815552d7c.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/es-es-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-a03acb2633be.jpg",
+                        "url": "https://cdn2.unrealengine.com/es-es-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-39b7ab0e151e.jpg"
+                    },
+                    "ar": {
+                        "url_s": "https://cdn2.unrealengine.com/ar-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-55f872598f87.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/ar-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-20ee6e205153.jpg",
+                        "url": "https://cdn2.unrealengine.com/ar-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-cfb98aa55560.jpg"
+                    },
+                    "vi": {
+                        "url_s": "https://cdn2.unrealengine.com/vi-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-2a2643d19461.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/vi-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-25b01b647543.jpg",
+                        "url": "https://cdn2.unrealengine.com/vi-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-5883ebc7d6ee.jpg"
+                    },
+                    "th": {
+                        "url_s": "https://cdn2.unrealengine.com/th-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-f0467cbab6b0.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/th-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-b4f7e8b3e62b.jpg",
+                        "url": "https://cdn2.unrealengine.com/th-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-2e96c09c6460.jpg"
+                    },
+                    "ja": {
+                        "url_s": "https://cdn2.unrealengine.com/jp-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-67ecdd3f7266.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/jp-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-58be6bcce0d5.jpg",
+                        "url": "https://cdn2.unrealengine.com/jp-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-bc43152a6f2c.jpg"
+                    },
+                    "id": {
+                        "url_s": "https://cdn2.unrealengine.com/id-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-e0df3aa55271.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/id-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-b5b8021623a7.jpg",
+                        "url": "https://cdn2.unrealengine.com/id-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-fcbfeeed06cb.jpg"
+                    },
+                    "pl": {
+                        "url_s": "https://cdn2.unrealengine.com/pl-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-29a0c4c7b277.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/pl-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-e921a66b538a.jpg",
+                        "url": "https://cdn2.unrealengine.com/pl-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-d5d0531804f2.jpg"
+                    },
+                    "es-419": {
+                        "url_s": "https://cdn2.unrealengine.com/es-mx-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-1de856d7d727.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/es-mx-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-e6a756ed7ee7.jpg",
+                        "url": "https://cdn2.unrealengine.com/es-mx-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-e9b946a887f5.jpg"
+                    },
+                    "tr": {
+                        "url_s": "https://cdn2.unrealengine.com/tr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-480x270-480x270-8eaa4b24561f.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/tr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-640x360-640x360-26975cfce5dc.jpg",
+                        "url": "https://cdn2.unrealengine.com/tr-fnce-37-10-championsroad-surfwitch-ranked-reload-build-discoverplaylisttile-1920x1080-71f112642f31.jpg"
+                    }
+                },
+                "alt_title": {
+                    "de": "Nachladen Version Kranke",
+                    "ru": "Перезарядка версия больных",
+                    "ko": "환자 버전 리로드",
+                    "zh-hant": "病態版重裝",
+                    "pt-BR": "Recarga Versão Doentes",
+                    "zh-hans": "病态版重装",
+                    "it": "Ricarica Versione Malati",
+                    "fr": "Recharge version malades",
+                    "es": "Recarga versión enfermos",
+                    "ar": "إعادة التحميل نسخة المرضى",
+                    "vi": "Tải Lại Phiên Bản Bệnh Hoạn",
+                    "th": "รีโหลด เวอร์ชันป่วย",
+                    "ja": "病人バージョンのリロード",
+                    "id": "Reload Versi Sakit",
+                    "pl": "Przeładowanie wersja chorych",
+                    "es-419": "Recarga versión enfermos",
+                    "tr": "Hastalar Sürümü Yeniden Yükleme"
+                },
+                "block_cascading_data": "true",
+                "tagline": "Just like classic Reload, with a little more to play for!\nBattle it out against other players of similar rank. Show off your skills, complete challenges for rewards, and climb the ranks.",
+                "extra_image_urls": [
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot17-1920x1080-1920x1080-e762a8158129.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot13-1920x1080-1920x1080-f24b4a481214.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot14-1920x1080-1920x1080-15498d0556f5.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot15-1920x1080-1920x1080-17a66a477687.jpg"
+                    },
+                    {
+                        "url_s": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg",
+                        "url_m": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg",
+                        "url": "https://cdn2.unrealengine.com/fnbr-32-00-reload-social-environment-shot16-1920x1080-1920x1080-70faccc91c75.jpg"
+                    }
+                ],
+                "square_image_urls": {
+                    "url": "https://cdn2.unrealengine.com/en-fnbr-32-00-reload-ranked-discoverytile-480x480-480x480-87c4523a60ca.jpg"
+                },
+                "category_labels": [
+                    "Battle Royale"
+                ],
+                "default_sub_link_code": "playlist_habanero_sunflower_squads"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-07-26T19:18:04.610Z",
+            "published": "2024-07-26T19:18:04.610Z",
+            "descriptionTags": [],
+            "moderationStatus": "Approved",
+            "lastActivatedDate": "2024-07-26T19:18:04.612Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        }
+    ],
+    "links": {
+        "playlist_habanero_sunflower_solo": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_habanero_sunflower_solo",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "ratingType": "ranked_blastberry_build",
+                    "isRanked": true
+                },
+                    "alt_title": {
+                    "de": "Einsamer Wolf",
+                    "ru": "Одинокий волк",
+                    "ko": "외로운 늑대",
+                    "zh-hant": "孤狼",
+                    "pt-BR": "Lobo Solitário",
+                    "zh-hans": "孤狼",
+                    "it": "Lupo Solitario",
+                    "fr": "Loup Solitaire",
+                    "es": "Lobo Solitario",
+                    "ar": "ذئب وحيد",
+                    "vi": "Sói Cô Độc",
+                    "th": "หมาป่าเดียวดาย",
+                    "ja": "孤独なオオカミ",
+                    "id": "Serigala Penyendiri",
+                    "pl": "Samotny Wilk",
+                    "es-419": "Lobo Solitario",
+                    "tr": "Yalnız Kurt"
+                },
+                "favorite_override": "set_habanero_blastberry_playlists",
+                "parent_set": "set_habanero_blastberry_playlists",
+                "play_history_override": "set_habanero_blastberry_playlists",
+                "image_url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg",
+                "product_tag": "Product.BlastBerry.Habanero",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/solosize-480-480x270-bd71a8aecb8f.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/solosize-256-256x144-9e4ba5075e53.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/solosize-640-640x360-0062a2e4e8b4.jpg",
+                    "url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_habanero_sunflower_solo"
+                },
+                "title": "Lone Wolf"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-10-29T18:11:30.200Z",
+            "published": "2024-10-29T18:11:30.200Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2024-10-29T18:11:30.205Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_sunflowerduo": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_sunflowerduo",
+            "linkType": "BR:Playlist",
+            "metadata": {
+            "alt_title": {
+                "de": "Doppeltes Problem",
+                "ru": "Двойная проблема",
+                "ko": "두 배의 문제",
+                "pt-BR": "Problema Duplo",
+                "zh-hans": "双重问题",
+                "en": "Double Trouble",
+                "it": "Problema Doppio",
+                "fr": "Double Problème",
+                "zh-CN": "双重问题",
+                "es": "Doble problema",
+                "es-MX": "Doble problema",
+                "zh": "双重问题",
+                "ar": "مشكلة مزدوجة",
+                "zh-Hant": "雙重問題",
+                "ja": "二重の問題",
+                "pl": "Podwójny problem",
+                "es-419": "Doble problema",
+                "tr": "Çifte Sorun"
+            },
+                "parent_set": "set_blastberry_playlists",
+                "favorite_override": "set_blastberry_playlists",
+                "play_history_override": "set_blastberry_playlists",
+                "image_url": "https://cdn2.unrealengine.com/duossize-1920-1920x1080-284f117a184a.jpg",
+                "product_tag": "Product.BlastBerry.Build",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/duossize-480-480x270-f7ab641d8d9c.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/duossize-256-256x144-6291155853c9.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/duossize-640-640x360-9cd7be7aba4c.jpg",
+                    "url": "https://cdn2.unrealengine.com/duossize-1920-1920x1080-284f117a184a.jpg"
+                },
+                "dynamicXp": {
+                    "uniqueGameVersion": 1,
+                    "calibrationPhase": "DataAnalysis"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_sunflowerduo"
+                },
+                "title": "Double Trouble"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-08-13T18:55:38.671Z",
+            "published": "2024-08-13T18:55:38.671Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2024-08-13T18:55:38.675Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_habanero_sunflower_duos": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_habanero_sunflower_duos",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "ratingType": "ranked_blastberry_build",
+                    "isRanked": true
+                },
+                "alt_title": {
+                "de": "Doppeltes Problem",
+                "ru": "Двойная проблема",
+                "ko": "두 배의 문제",
+                "pt-BR": "Problema Duplo",
+                "zh-hans": "双重问题",
+                "en": "Double Trouble",
+                "it": "Problema Doppio",
+                "fr": "Double Problème",
+                "zh-CN": "双重问题",
+                "es": "Doble problema",
+                "es-MX": "Doble problema",
+                "zh": "双重问题",
+                "ar": "مشكلة مزدوجة",
+                "zh-Hant": "雙重問題",
+                "ja": "二重の問題",
+                "pl": "Podwójny problem",
+                "es-419": "Doble problema",
+                "tr": "Çifte Sorun"
+                },
+                "favorite_override": "set_habanero_blastberry_playlists",
+                "parent_set": "set_habanero_blastberry_playlists",
+                "play_history_override": "set_habanero_blastberry_playlists",
+                "image_url": "https://cdn2.unrealengine.com/duossize-1920-1920x1080-284f117a184a.jpg",
+                "product_tag": "Product.BlastBerry.Habanero",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/duossize-480-480x270-f7ab641d8d9c.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/duossize-256-256x144-6291155853c9.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/duossize-640-640x360-9cd7be7aba4c.jpg",
+                    "url": "https://cdn2.unrealengine.com/duossize-1920-1920x1080-284f117a184a.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_habanero_sunflower_duos"
+                },
+                "title": "Double Trouble"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-09-25T18:41:06.287Z",
+            "published": "2024-09-25T18:41:06.287Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2024-09-25T18:41:06.290Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_sunflowersolo": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_sunflowersolo",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "alt_title": {
+                    "de": "Einsamer Wolf",
+                    "ru": "Одинокий волк",
+                    "ko": "외로운 늑대",
+                    "zh-hant": "孤狼",
+                    "pt-BR": "Lobo Solitário",
+                    "zh-hans": "孤狼",
+                    "it": "Lupo Solitario",
+                    "fr": "Loup Solitaire",
+                    "es": "Lobo Solitario",
+                    "ar": "ذئب وحيد",
+                    "vi": "Sói Cô Độc",
+                    "th": "หมาป่าเดียวดาย",
+                    "ja": "孤独なオオカミ",
+                    "id": "Serigala Penyendiri",
+                    "pl": "Samotny Wilk",
+                    "es-419": "Lobo Solitario",
+                    "tr": "Yalnız Kurt"
+                },
+                "favorite_override": "set_blastberry_playlists",
+                "parent_set": "set_blastberry_playlists",
+                "play_history_override": "set_blastberry_playlists",
+                "image_url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg",
+                "product_tag": "Product.BlastBerry.Build",
+                "dynamicXp": {
+                    "uniqueGameVersion": 1,
+                    "calibrationPhase": "DataAnalysis"
+                },
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/solosize-480-480x270-bd71a8aecb8f.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/solosize-256-256x144-9e4ba5075e53.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/solosize-640-640x360-0062a2e4e8b4.jpg",
+                    "url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_sunflowersolo"
+                },
+                "title": "Lone Wolf"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-08-13T18:55:39.361Z",
+            "published": "2024-08-13T18:55:39.361Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2024-08-13T18:55:39.365Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_sunflowersquad": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_sunflowersquad",
+            "linkType": "BR:Playlist",
+            "metadata": {
+            "alt_title": {
+                "de": "Marathon",
+                "ru": "Марафон",
+                "ko": "마라톤",
+                "zh-hant": "馬拉松",
+                "pt-BR": "Maratona",
+                "zh-hans": "马拉松",
+                "it": "Maratona",
+                "fr": "Marathon",
+                "es": "Maratón",
+                "ar": "ماراثون",
+                "vi": "Cuộc Marathon",
+                "th": "มาราธอน",
+                "ja": "マラソン",
+                "id": "Maraton",
+                "pl": "Maraton",
+                "es-419": "Maratón",
+                "tr": "Maraton"
+            },
+                "parent_set": "set_blastberry_playlists",
+                "favorite_override": "set_blastberry_playlists",
+                "play_history_override": "set_blastberry_playlists",
+                "image_url": "https://cdn2.unrealengine.com/squadssize-1920-1920x1080-4da9e2186875.jpg",
+                "product_tag": "Product.BlastBerry.Build",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/squadssize-480-480x270-823c15f5f2f5.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/squadssize-256-256x144-8dc31a6baffa.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/squadssize-640-640x360-696ba89c81db.jpg",
+                    "url": "https://cdn2.unrealengine.com/squadssize-1920-1920x1080-4da9e2186875.jpg"
+                },
+                "dynamicXp": {
+                    "uniqueGameVersion": 1,
+                    "calibrationPhase": "DataAnalysis"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_sunflowersquad"
+                },
+                "title": "Marathon"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-08-13T18:55:38.612Z",
+            "published": "2024-08-13T18:55:38.612Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2024-08-13T18:55:38.617Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_habanero_sunflower_squads": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_habanero_sunflower_squads",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "ratingType": "ranked_blastberry_build",
+                    "isRanked": true
+                },
+                "alt_title": {
+                    "de": "Marathon",
+                    "ru": "Марафон",
+                    "ko": "마라톤",
+                    "zh-hant": "馬拉松",
+                    "pt-BR": "Maratona",
+                    "zh-hans": "马拉松",
+                    "it": "Maratona",
+                    "fr": "Marathon",
+                    "es": "Maratón",
+                    "ar": "ماراثون",
+                    "vi": "Cuộc Marathon",
+                    "th": "มาราธอน",
+                    "ja": "マラソン",
+                    "id": "Maraton",
+                    "pl": "Maraton",
+                    "es-419": "Maratón",
+                    "tr": "Maraton"
+                },
+                "parent_set": "set_habanero_blastberry_playlists",
+                "play_history_override": "set_habanero_blastberry_playlists",
+                "favorite_override": "set_habanero_blastberry_playlists",
+                "image_url": "https://cdn2.unrealengine.com/squadssize-1920-1920x1080-4da9e2186875.jpg",
+                "product_tag": "Product.BlastBerry.Habanero",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/squadssize-480-480x270-823c15f5f2f5.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/squadssize-640-640x360-696ba89c81db.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/squadssize-256-256x144-8dc31a6baffa.jpg",
+                    "url": "https://cdn2.unrealengine.com/squadssize-1920-1920x1080-4da9e2186875.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_habanero_sunflower_squads"
+                },
+                "title": "Marathon"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2024-09-25T18:41:05.722Z",
+            "published": "2024-09-25T18:41:05.722Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2024-09-25T18:41:05.725Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        }
+    }
+}

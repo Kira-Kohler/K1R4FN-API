@@ -1,0 +1,740 @@
+{
+    "parentLinks": [
+        {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "set_forbiddenfruit_nobuild_playlists",
+            "linkType": "ModeSet",
+            "metadata": {
+                "frontend_plugin": "ForbiddenFruitFrontEnd",
+                "image_urls": {
+                    "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                    "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                    "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                },
+                "title": "Loot with VAT",
+                "alt_tagline": {
+                "de": "32 Spieler. Eine kleine Karte, kleiner als der Kühlschrank im Moncloa, wenn es fünf Uhr ist und Pedro nichts gegessen hat. Schnelle Partien, weil der Falcon auf niemanden wartet. Null Bauen, weil wenn sie Hilfe wollen, sollen sie darum bitten. Jedes Spiel beginnt mit einem zufälligen Medaillon, so wie wenn Pedro den Kühlschrank öffnet und einen abgelaufenen Joghurt findet. Sammle Eliminierungen und überlebe die Sturmkreise, die sich schneller schließen als Pedro, der im Sommer sein Handy ausschaltet. Steigere dein Blitz-Level und schalte eine so epische Beute frei, dass du sagst: Es ist vier Uhr und ich habe nicht gegessen, aber egal, ich habe eine mythische SCAR.",
+                "ru": "32 игрока. Маленькая карта, меньше чем холодильник в Монклоа, когда пять часов, а Педро ещё не ел. Быстрые матчи, ведь Фалькон ни кого не ждёт. Ноль строительства, потому что если нужна помощь — пусть просят. Каждый матч начинается со случайного медальона, как когда Педро открывает холодильник и находит просроченный йогурт. Набирай устранения и выживай в кругах шторма, которые закрываются быстрее, чем Педро выключает телефон летом. Повышай уровень Блиц и получай такой эпический лут, что скажешь: четыре часа, я не ел, но плевать, у меня есть мифическая SCAR.",
+                "ko": "32명의 플레이어. 작은 지도, 마치 다섯 시에 페드로가 아직 밥도 안 먹었을 때의 몽클로아 냉장고보다도 작아. 빠른 매치, 왜냐면 팔콘은 아무도 기다려주지 않으니까. 제로 빌드, 도움이 필요하면 그냥 부탁하라 이거지. 각 매치는 랜덤 메달 하나로 시작해, 마치 페드로가 냉장고 열었는데 유통기한 지난 요구르트를 발견하는 것처럼. 처치를 쌓고 스톰 서클에서 살아남아라, 여름에 페드로가 폰 끄는 것보다 더 빨리 닫히거든. 블리츠 레벨 올리면 이렇게 미친 전리품을 얻는다: 지금 네 시고 아직 밥도 안 먹었는데 상관없어, 나한텐 미틱 SCAR 있으니까.",
+                "zh-hant": "32 名玩家。一張小地圖，比蒙克洛亞的冰箱還小──當五點鐘時，佩德羅還沒吃飯。快速比賽，因為獵鷹不等人。零建造，因為要幫忙就自己開口。每場比賽開始時會隨機得到一枚勳章，就像佩德羅打開冰箱發現一杯過期的優格。累積擊殺並存活於風暴圈，比佩德羅夏天關掉手機還快。提升你的 Blitz 等級，解鎖一個如此史詩的戰利品，讓你說：現在四點我還沒吃飯，但無所謂，因為我有一把神話 SCAR。",
+                "pt-BR": "32 jogadores. Um mapa pequeno, menor que a geladeira da Moncloa quando são cinco horas e Pedro não comeu nada. Partidas rápidas, porque o Falcon não espera ninguém. Zero construção, porque se quiserem ajuda que peçam. Cada partida começa com um medalhão aleatório, como quando Pedro abre a geladeira e encontra um iogurte vencido. Acumule eliminações e sobreviva aos círculos da tempestade, que fecham mais rápido que Pedro desligando o celular no verão. Suba seu nível Blitz e desbloqueie um loot tão épico que você vai dizer: são quatro horas e eu não comi, mas tanto faz, tenho uma SCAR mítica.",
+                "zh-hans": "32名玩家。一张小地图，比蒙克洛亚的冰箱还小──当五点钟佩德罗还没吃饭。快速对局，因为猎鹰不等人。零建造，因为想要帮助就自己开口。每局开始都会得到一个随机勋章，就像佩德罗打开冰箱发现一个过期的酸奶。累计淘汰并在风暴圈存活，比佩德罗夏天关掉手机还快。提升你的Blitz等级，解锁如此史诗的战利品，让你说：现在四点我还没吃饭，但没关系，我有一把神话SCAR。",
+                "it": "32 giocatori. Una mappa piccola, più piccola del frigo alla Moncloa quando sono le cinque e Pedro non ha ancora mangiato. Partite veloci, perché il Falcon non aspetta nessuno. Zero costruzioni, perché se vogliono aiuto che lo chiedano. Ogni partita inizia con un medaglione casuale, come quando Pedro apre il frigo e trova uno yogurt scaduto. Accumula eliminazioni e sopravvivi ai cerchi della tempesta, che si chiudono più velocemente di Pedro che spegne il cellulare d’estate. Aumenta il tuo livello Blitz e sblocca un bottino così epico che dirai: sono le quattro e non ho mangiato, ma non importa, ho una SCAR mitica.",
+                "fr": "32 joueurs. Une petite carte, plus petite que le frigo de la Moncloa quand il est cinq heures et que Pedro n'a pas mangé. Parties rapides, car le Falcon n'attend personne. Zéro construction, parce que s'ils veulent de l'aide, qu'ils le demandent. Chaque partie commence avec un médaillon aléatoire, comme quand Pedro ouvre le frigo et tombe sur un yaourt périmé. Accumulez des éliminations et survivez aux cercles de la tempête, qui se referment plus vite que Pedro éteignant son portable en été. Montez votre niveau Blitz et débloquez un butin si épique que vous direz : il est quatre heures et je n'ai pas mangé, mais peu importe, j'ai une SCAR mythique.",
+                "es": "32 jugadores. Un mapa pequeño, más pequeño que la nevera de la Moncloa cuando son las cinco Pedro no ha comido. Partidas rápidas, porque el Falcon no espera a nadie. Cero construcción, porque si quieren ayuda que la pidan. Cada partida empieza con un medallón aleatorio, como cuando Pedro abre la nevera y se encuentra un yogur caducao. Acumula eliminaciones y sobrevive a los círculos de la tormenta, que cierran más rápido que Pedro apagando el móvil en verano. Sube tu nivel de Blitz y desbloquea un botín tan épico que te hará decir: son las cuatro y no he comido, pero da igual, tengo una SCAR mítica.",
+                "ar": "32 لاعبًا. خريطة صغيرة، أصغر من ثلاجة مونكلوا عندما تكون الساعة الخامسة وبيدرو لم يأكل. مباريات سريعة، لأن الفالكون لا ينتظر أحدًا. صفر بناء، لأنه إذا أرادوا المساعدة فليطلبوها. تبدأ كل مباراة بميدالية عشوائية، مثل عندما يفتح بيدرو الثلاجة ويجد زبادي منتهي الصلاحية. اجمع عمليات التصفية وابقَ على قيد الحياة في دوائر العاصفة، التي تغلق أسرع من بيدرو وهو يطفئ هاتفه في الصيف. ارفع مستوى Blitz الخاص بك وافتح غنيمة أسطورية لدرجة أنك ستقول: الساعة الرابعة ولم آكل، لكن لا بأس، لدي SCAR أسطوري.",
+                "vi": "32 Người Chơi. Một bản đồ nhỏ, nhỏ hơn cả cái tủ lạnh ở Moncloa lúc năm giờ mà Pedro chưa ăn gì. Trận đấu nhanh, vì Falcon không đợi ai. Không xây dựng, vì muốn giúp thì cứ nói. Mỗi trận bắt đầu với một huy chương ngẫu nhiên, như khi Pedro mở tủ lạnh và thấy hộp sữa chua hết hạn. Hãy hạ gục đối thủ và sống sót qua các vòng bão, đóng lại còn nhanh hơn Pedro tắt điện thoại vào mùa hè. Nâng cấp Blitz của bạn và mở khóa loot huyền thoại đến mức bạn sẽ nói: bây giờ là bốn giờ và tôi chưa ăn, nhưng không sao, tôi có SCAR huyền thoại.",
+                "th": "ผู้เล่น 32 คน แผนที่เล็กกว่า ตู้เย็นที่ Moncloa ตอนห้าโมงที่ Pedro ยังไม่ได้กิน เกมเร็ว เพราะ Falcon ไม่รอใคร ไม่มีการสร้าง เพราะถ้าอยากได้ความช่วยเหลือก็พูดมา แต่ละแมตช์เริ่มด้วยเหรียญสุ่ม เหมือนเวลา Pedro เปิดตู้เย็นแล้วเจอโยเกิร์ตหมดอายุ เก็บคิลและเอาตัวรอดจากวงพายุที่ปิดเร็วกว่า Pedro ปิดมือถือหน้าร้อน เพิ่มเลเวลบลิทซ์ของคุณแล้วปลดล็อกของล้ำค่าแบบสุด ๆ จนคุณจะพูดว่า: ตอนนี้สี่โมงแล้ว ฉันยังไม่ได้กิน แต่ไม่เป็นไร เพราะฉันมี SCAR ในตำนาน",
+                "ja": "32人のプレイヤー。小さいマップ、モンクロアの冷蔵庫より小さい──午後5時にペドロがまだ食べていないときの。短期決戦、だってファルコンは誰も待たないから。ゼロビルド、助けが欲しいなら頼めばいい。各マッチはランダムメダリオンで始まる、まるでペドロが冷蔵庫を開けて賞味期限切れのヨーグルトを見つけるように。撃破数を稼ぎ、夏にペドロが携帯を切るより速く閉じるストームサークルを生き延びろ。Blitzレベルを上げて、神話級SCARを持って「今4時でまだ食べてないけど、気にしない、神話SCARあるから」と言えるほどの戦利品を手に入れろ。",
+                "id": "32 Pemain. Peta kecil, lebih kecil dari kulkas di Moncloa jam lima saat Pedro belum makan. Pertandingan cepat, karena Falcon tidak menunggu siapa pun. Tanpa bangunan, karena kalau mau bantuan ya bilang aja. Setiap pertandingan dimulai dengan medali acak, seperti saat Pedro buka kulkas dan nemu yogurt kadaluarsa. Kumpulkan eliminasi dan bertahan di lingkaran badai, yang menutup lebih cepat daripada Pedro mematikan HP-nya di musim panas. Naikkan Level Blitz-mu dan buka loot epik banget sampai kamu bilang: sekarang jam empat dan gue belum makan, tapi nggak apa-apa, gue punya SCAR mitis.",
+                "pl": "32 graczy. Mała mapa, mniejsza niż lodówka w Moncloa, gdy jest piąta, a Pedro nic nie zjadł. Szybkie gry, bo Falcon na nikogo nie czeka. Zero budowania, bo jeśli chcą pomocy, to niech poproszą. Każdy mecz zaczyna się od losowego medalionu, jak wtedy gdy Pedro otwiera lodówkę i znajduje przeterminowany jogurt. Zbieraj eliminacje i przeżywaj kręgi burzy, które zamykają się szybciej niż Pedro wyłączający telefon latem. Podnoś swój poziom Blitz i odblokuj taki epicki łup, że powiesz: jest czwarta i nic nie jadłem, ale nieważne, mam mityczną SCAR.",
+                "es-419": "32 jugadores. Un mapa pequeño, más pequeño que la nevera de la Moncloa cuando son las cinco y Pedro no ha comido. Partidas rápidas, porque el Falcon no espera a nadie. Cero construcción, porque si quieren ayuda que la pidan. Cada partida empieza con un medallón aleatorio, como cuando Pedro abre la nevera y se encuentra un yogur caducado. Acumula eliminaciones y sobrevive a los círculos de la tormenta, que cierran más rápido que Pedro apagando el móvil en verano. Sube tu nivel de Blitz y desbloquea un botín tan épico que te hará decir: son las cuatro y no he comido, pero da igual, tengo una SCAR mítica.",
+                "tr": "32 Oyuncu. Küçük bir harita, Moncloa'daki buzdolabından bile küçük, saat beş olduğunda Pedro hâlâ yemek yememiş. Hızlı maçlar, çünkü Falcon kimseyi beklemez. Sıfır inşa, çünkü yardım istiyorlarsa söylesinler. Her maç rastgele bir madalyonla başlar, tıpkı Pedro'nun buzdolabını açıp süresi geçmiş bir yoğurt bulması gibi. Eleme yap ve fırtına çemberlerinden sağ çık, yazın Pedro'nun telefonunu kapatmasından daha hızlı daralırlar. Blitz seviyeni yükselt ve öyle destansı bir ganimeti aç ki şöyle diyeceksin: saat dört oldu ve hâlâ yemek yemedim, ama sorun değil, çünkü elimde efsanevi bir SCAR var."
+                },
+                "matchmaking_plugins": [
+                    "ForbiddenFruitGracefulUpgrade"
+                ],
+                "ratings": {
+                    "rating_received_time": "2025-05-30T18:15:19.578Z",
+                    "boards": {
+                        "ACB": {
+                            "descriptors": [
+                                "ACB_Violence",
+                                "ACB_OnlineInteractivityAndChat_v10_0",
+                                "ACB_InGamePurchases"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": false,
+                            "rating": "ACB_AGE_M",
+                            "initial_rating": "ACB_AGE_M",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "PEGI": {
+                            "descriptors": [
+                                "PEGI_Violence",
+                                "PEGI_BadLanguage",
+                                "PEGI_Fear",
+                                "PEGI_Sex",
+                                "PEGI_Drugs",
+                                "PEGI_Discrimination",
+                                "PEGI_Gambling"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": true,
+                            "rating": "PEGI_AGE_18",
+                            "initial_rating": "PEGI_AGE_18",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1",
+                                "IE_InGamePurchasesIncludesRandomItems",
+                                "IE_Online"
+                            ]
+                        },
+                        "Generic": {
+                            "descriptors": [
+                                "GEN_ModerateViolence"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": false,
+                            "rating": "GEN_AGE_12",
+                            "initial_rating": "GEN_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "ClassInd": {
+                            "descriptors": [
+                                "ClassInd_Violencia"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": false,
+                            "rating": "CLASSIND_AGE_12",
+                            "initial_rating": "CLASSIND_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "USK": {
+                            "descriptors": [
+                                "USK_FantasyGewalt_v9_0"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": false,
+                            "rating": "USK_AGE_12",
+                            "initial_rating": "USK_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "GRAC": {
+                            "descriptors": [
+                                "GRAC_Violence_v7_1"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": false,
+                            "rating": "GRAC_AGE_12",
+                            "initial_rating": "GRAC_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "ESRB": {
+                            "descriptors": [
+                                "ESRB_Violence"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": false,
+                            "rating": "ESRB_AGE_T",
+                            "initial_rating": "ESRB_AGE_T",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "Russia": {
+                            "descriptors": [
+                                "RUS_Violence_v7_0"
+                            ],
+                            "traditional": false,
+                            "rating_overridden": false,
+                            "rating": "RUSSIA_AGE_16",
+                            "initial_rating": "RUSSIA_AGE_16",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        }
+                    }
+                },
+                "product_tag": "Product.ForbiddenFruit.NoBuild",
+                "ccu_source_links": [
+                    "playlist_forbiddenfruitnobuildbrsolo",
+                    "playlist_forbiddenfruitnobuildbrduopc",
+                    "playlist_forbiddenfruitnobuildbrduo",
+                    "playlist_forbiddenfruitnobuildbrsquad",
+                    "playlist_forbiddenfruitnobuildbrstack",
+                    "playlist_forbiddenfruitnobuildbrstackpc"
+                ],
+                "web_slug": "fortnite-blitz-royale",
+                "lobby_background_image_urls": {
+                    "url": "https://cdn.revoltusercontent.com/attachments/E9YkKTX7LbywXOgDT2AbRg_mQMYig4_DuYyUEvTTu_/upscalemedia-transformed.jpeg"
+                },
+                "pop_out_image_urls": {
+                    "url": "https://cdn2.unrealengine.com/foregroundblitz-1096x384-6c0d1cdd1f90.png"
+                },
+                "background_image_urls": {
+                    "url": "https://cdn2.unrealengine.com/background-blitz-1760x352-ef37fcbf769b.png"
+                },
+                "image_url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                "rotation": [
+                    {
+                        "duration": 0,
+                        "subtitle": "Week 11: Taxes on the Island",
+                        "alt_subtitle": {
+                            "de": "WOCHE 11: HACIENDA AUF DER INSEL",
+                            "ru": "11-Я НЕДЕЛЯ: HACIENDA НА ОСТРОВЕ",
+                            "ko": "11주 차: 섬의 HACIENDA",
+                            "zh-hant": "第11週：島上的 HACIENDA",
+                            "pt-BR": "SEMANA 11: HACIENDA NA ILHA",
+                            "zh-hans": "第11周：岛上的 HACIENDA",
+                            "it": "SETTIMANA 11: HACIENDA SULL'ISOLA",
+                            "fr": "SEMAINE 11 : HACIENDA SUR L'ÎLE",
+                            "es": "SEMANA 11: HACIENDA EN LA ISLA",
+                            "ar": "الأسبوع 11: HACIENDA على الجزيرة",
+                            "vi": "TUẦN 11: HACIENDA TRÊN ĐẢO",
+                            "th": "สัปดาห์ที่ 11: HACIENDA บนเกาะ",
+                            "ja": "ウィーク11: 島のHACIENDA",
+                            "id": "PEKAN 11: HACIENDA DI PULAU",
+                            "pl": "TYDZIEŃ 11: HACIENDA NA WYSPIE",
+                            "es-419": "SEMANA 11: HACIENDA EN LA ISLA",
+                            "tr": "11. HAFTA: ADA'DA HACIENDA"
+                        },
+                        "sub_image_url": "https://cdn.revoltusercontent.com/attachments/gl_1n5SCQrP4tBhXIgWnLnsx5gCYqkhHmDABVhrZq8/IVA.png"
+                    }
+                ],
+                "genre_labels": [
+                    "Team Deathmatch"
+                ],
+                "predownload_link_codes": [
+                    "0689-7630-5479"
+                ],
+                "sub_link_codes": [
+                    "playlist_forbiddenfruitnobuildbrsolo",
+                    "playlist_forbiddenfruitnobuildbrduo",
+                    "playlist_forbiddenfruitnobuildbrduopc",
+                    "playlist_forbiddenfruitnobuildbrsquad",
+                    "playlist_forbiddenfruitnobuildbrstack",
+                    "playlist_forbiddenfruitnobuildbrstackpc"
+                ],
+                "alt_image_urls": {
+                    "de": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "ru": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "ko": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "zh-hant": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "pt-BR": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "zh-hans": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "it": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "fr": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "es": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "ar": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "vi": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "th": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "ja": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "id": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "pl": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "es-419": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    },
+                    "tr": {
+                        "url_s": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url_m": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png",
+                        "url": "https://cdn.revoltusercontent.com/attachments/BBEcO12dHAH6pnLEObLTa8mKTJnxa7HzUyl0skysms/pedrofhd.png"
+                    }
+                },
+                "alt_title": {
+                    "de": "Loot mit MwSt.",
+                    "ru": "Лут с НДС",
+                    "ko": "부가세 포함 전리품",
+                    "zh-hant": "含稅戰利品",
+                    "pt-BR": "Loot com Imposto",
+                    "zh-hans": "含税战利品",
+                    "it": "Bottino con IVA",
+                    "fr": "Butin avec TVA",
+                    "es": "Loot con IVA",
+                    "ar": "الغنيمة مع الضريبة",
+                    "vi": "Loot kèm Thuế",
+                    "th": "ของปล้นรวมภาษี",
+                    "ja": "税付きルート",
+                    "id": "Loot plus Pajak",
+                    "pl": "Łup z VAT",
+                    "es-419": "Loot con IVA",
+                    "tr": "Vergili Loot"
+                },
+                "block_cascading_data": "true",
+                "tagline": "32 players. A small map, smaller than the fridge at Moncloa when it’s five o’clock and Pedro hasn’t eaten. Fast matches, because the Falcon waits for no one. Zero building, because if they want help, they should ask for it. Each match starts with a random medallion, like when Pedro opens the fridge and finds an expired yogurt. Rack up eliminations and survive the storm circles, which close faster than Pedro turning off his phone in the summer. Level up your Blitz rank and unlock loot so epic it’ll make you say: it’s four o’clock and I haven’t eaten, but it doesn’t matter, I’ve got a Mythic SCAR.",
+                "square_image_urls": {
+                    "url": "https://cdn2.unrealengine.com/en-fneco-36-10-forbiddenfruit-discoverplaylisttile-v5-480x480-480x480-9859d927e8a9.jpg"
+                },
+                "category_labels": [
+                    "Combat"
+                ],
+                "countdownTimers": [
+                    {
+                        "targetTime": 1754161200,
+                        "featureFlags": [
+                            "lobby"
+                        ]
+                    }
+                ],
+                "default_sub_link_code": "playlist_forbiddenfruitnobuildbrsolo"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2025-06-10T17:03:29.077Z",
+            "published": "2025-06-10T17:03:29.077Z",
+            "descriptionTags": [],
+            "moderationStatus": "Approved",
+            "lastActivatedDate": "2025-06-10T17:03:29.082Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        }
+    ],
+    "links": {
+        "playlist_forbiddenfruitnobuildbrduopc": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_forbiddenfruitnobuildbrduopc",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingv2": {
+                    "crossplayRequired": true
+                },
+                "parent_set": "set_forbiddenfruit_nobuild_playlists",
+                "play_history_override": "set_forbiddenfruit_nobuild_playlists",
+                "alt_title": {
+                    "de": "Doppeltes multipliziertes Problem",
+                    "ru": "Удвоенная умноженная проблема",
+                    "ko": "곱해진 두 배의 문제",
+                    "zh-hant": "加倍的問題再乘以倍數",
+                    "pt-BR": "Problema dobrado multiplicado",
+                    "zh-hans": "双倍问题再乘倍",
+                    "it": "Doppio problema moltiplicato",
+                    "fr": "Problème double multiplié",
+                    "es": "Doble problema multiplicado",
+                    "ar": "مشكلة مزدوجة مضاعفة",
+                    "vi": "Vấn đề gấp đôi nhân lên",
+                    "th": "ปัญหาสองเท่าถูกคูณเข้าไปอีก",
+                    "ja": "倍増した二重の問題",
+                    "id": "Masalah ganda dikalikan",
+                    "pl": "Podwójny problem pomnożony",
+                    "es-419": "Doble problema multiplicado",
+                    "tr": "Çifte sorun çarpılmış"
+                },
+                "image_url": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-duo-1920x1080-1920x1080-a0ae91faf382.jpg",
+                "product_tag": "Product.ForbiddenFruit.NoBuild.PureChaos",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-duo-480x270-480x270-e7d941d754d4.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-duo-256x144-256x144-dfc82d6e79ab.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-duo-640x360-640x360-5d7d30206d97.jpg",
+                    "url": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-duo-1920x1080-1920x1080-a0ae91faf382.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_forbiddenfruitnobuildbrduopc"
+                },
+                "title": "Double Trouble Multiplied"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2025-08-13T22:15:02.116Z",
+            "published": "2025-08-13T22:15:02.116Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2025-08-13T22:15:02.121Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_forbiddenfruitnobuildbrsquad": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_forbiddenfruitnobuildbrsquad",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "allowSquadFillOption": true,
+                    "allowJoinInProgress": false,
+                    "crossplayRequired": true,
+                    "maxPlayers": 40,
+                    "ratingType": "blastberry_nobuild",
+                    "maxSocialPartySize": 4,
+                    "isRanked": false,
+                    "maxTeamCount": 40,
+                    "allowPrivateMatches": false,
+                    "maxTeamSize": 4
+                },
+                "alt_title": {
+                    "de": "Die 4 Gespenster",
+                    "ru": "4 Призрака",
+                    "ko": "네 명의 유령",
+                    "pt-BR": "Os 4 Fantasmas",
+                    "zh-hans": "四个幽灵",
+                    "en": "The 4 Ghosts",
+                    "it": "I 4 Fantasmi",
+                    "fr": "Les 4 Fantômes",
+                    "zh-CN": "四个幽灵",
+                    "es": "Los 4 Fantasmas",
+                    "es-MX": "Los 4 Fantasmas",
+                    "zh": "四个幽灵",
+                    "ar": "الأشباح الأربعة",
+                    "zh-Hant": "四個幽靈",
+                    "ja": "4人のゴースト",
+                    "pl": "4 Duchy",
+                    "es-419": "Los 4 Fantasmas",
+                    "tr": "4 Hayalet"
+                },
+                "favorite_override": "set_forbiddenfruit_nobuild_playlists",
+                "parent_set": "set_forbiddenfruit_nobuild_playlists",
+                "play_history_override": "set_forbiddenfruit_nobuild_playlists",
+                "block_cascading_data": "true",
+                "image_url": "https://cdn2.unrealengine.com/squadssize-1920-1920x1080-4da9e2186875.jpg",
+                "product_tag": "Product.ForbiddenFruit.NoBuild",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/squadssize-480-480x270-823c15f5f2f5.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/squadssize-256-256x144-8dc31a6baffa.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/squadssize-640-640x360-696ba89c81db.jpg",
+                    "url": "https://cdn2.unrealengine.com/squadssize-1920-1920x1080-4da9e2186875.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_forbiddenfruitnobuildbrsquad"
+                },
+                "title": "The 4 Ghosts"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2025-05-20T01:26:10.717Z",
+            "published": "2025-05-20T01:26:10.717Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2025-05-20T01:26:10.720Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_forbiddenfruitnobuildbrstack": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_forbiddenfruitnobuildbrstack",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "allowSquadFillOption": true,
+                    "allowJoinInProgress": false,
+                    "crossplayRequired": true,
+                    "maxPlayers": 30,
+                    "ratingType": "forbiddenfruit_nobuild",
+                    "maxSocialPartySize": 6,
+                    "isRanked": false,
+                    "maxTeamCount": 30,
+                    "allowPrivateMatches": false,
+                    "maxTeamSize": 6
+                },
+                "alt_title": {
+                    "de": "Gamer-Marathon",
+                    "ru": "Геймерский марафон",
+                    "ko": "게이머 마라톤",
+                    "pt-BR": "Maratona Gamer",
+                    "zh-hans": "玩家马拉松",
+                    "en": "Gamer Marathon",
+                    "it": "Maratona Gamer",
+                    "fr": "Marathon Gamer",
+                    "zh-CN": "玩家马拉松",
+                    "es": "Maratón Gamer",
+                    "zh": "玩家马拉松",
+                    "ar": "ماراثون اللاعبين",
+                    "zh-Hant": "玩家馬拉松",
+                    "vi": "Marathon Gamer",
+                    "th": "มาราธอนเกมเมอร์",
+                    "ja": "ゲーマーマラソン",
+                    "id": "Maraton Gamer",
+                    "pl": "Maraton Gracza",
+                    "es-419": "Maratón Gamer",
+                    "tr": "Gamer Maratonu"
+                },
+                "parent_set": "set_forbiddenfruit_nobuild_playlists",
+                "play_history_override": "set_forbiddenfruit_nobuild_playlists",
+                "favorite_override": "set_forbiddenfruit_nobuild_playlists",
+                "block_cascading_data": "true",
+                "image_url": "https://cdn2.unrealengine.com/squad-plus-1920x1080-29c46b7c5bcf.jpg",
+                "product_tag": "Product.ForbiddenFruit.NoBuild",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/squad-plus-480x270-480x270-bff52f93a166.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/squad-plus-256x144-256x144-b4782b3a3518.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/squad-plus-640x360-640x360-3209e87bc2c1.jpg",
+                    "url": "https://cdn2.unrealengine.com/squad-plus-1920x1080-29c46b7c5bcf.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_forbiddenfruitnobuildbrstack"
+                },
+                "title": "Gamer Marathon"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2025-07-15T21:48:59.661Z",
+            "published": "2025-07-15T21:48:59.661Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2025-07-15T21:48:59.665Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_forbiddenfruitnobuildbrduo": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_forbiddenfruitnobuildbrduo",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "allowSquadFillOption": true,
+                    "allowJoinInProgress": false,
+                    "crossplayRequired": true,
+                    "maxPlayers": 40,
+                    "ratingType": "blastberry_nobuild",
+                    "maxSocialPartySize": 2,
+                    "isRanked": false,
+                    "maxTeamCount": 40,
+                    "allowPrivateMatches": false,
+                    "maxTeamSize": 2
+                },
+                "alt_title": {
+                    "de": "Doppeltes Problem",
+                    "ru": "Двойная проблема",
+                    "ko": "두 배의 문제",
+                    "pt-BR": "Problema Duplo",
+                    "zh-hans": "双重问题",
+                    "en": "Double Trouble",
+                    "it": "Problema Doppio",
+                    "fr": "Double Problème",
+                    "zh-CN": "双重问题",
+                    "es": "Doble problema",
+                    "es-MX": "Doble problema",
+                    "zh": "双重问题",
+                    "ar": "مشكلة مزدوجة",
+                    "zh-Hant": "雙重問題",
+                    "ja": "二重の問題",
+                    "pl": "Podwójny problem",
+                    "es-419": "Doble problema",
+                    "tr": "Çifte Sorun"
+                },
+                "favorite_override": "set_forbiddenfruit_nobuild_playlists",
+                "parent_set": "set_forbiddenfruit_nobuild_playlists",
+                "play_history_override": "set_forbiddenfruit_nobuild_playlists",
+                "image_url": "https://cdn2.unrealengine.com/duossize-1920-1920x1080-284f117a184a.jpg",
+                "product_tag": "Product.ForbiddenFruit.NoBuild",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/duossize-480-480x270-f7ab641d8d9c.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/duossize-256-256x144-6291155853c9.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/duossize-640-640x360-9cd7be7aba4c.jpg",
+                    "url": "https://cdn2.unrealengine.com/duossize-1920-1920x1080-284f117a184a.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_forbiddenfruitnobuildbrduo"
+                },
+                "title": "Double Trouble"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2025-05-20T01:26:11.364Z",
+            "published": "2025-05-20T01:26:11.364Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2025-05-20T01:26:11.367Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_forbiddenfruitnobuildbrsolo": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_forbiddenfruitnobuildbrsolo",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "crossplayRequired": false
+                },
+                "alt_title": {
+                    "de": "Einsamer Wolf",
+                    "ru": "Одинокий волк",
+                    "ko": "외로운 늑대",
+                    "pt-BR": "Lobo Solitário",
+                    "zh-hans": "孤狼",
+                    "en": "Lone Wolf",
+                    "it": "Lupo Solitario",
+                    "fr": "Loup Solitaire",
+                    "zh-CN": "孤狼",
+                    "es": "Lobo Solitario",
+                    "es-MX": "Lobo Solitario",
+                    "zh": "孤狼",
+                    "ar": "ذئب وحيد",
+                    "zh-Hant": "孤狼",
+                    "ja": "孤独なオオカミ",
+                    "pl": "Samotny Wilk",
+                    "es-419": "Lobo Solitario",
+                    "tr": "Yalnız Kurt"
+                },
+                "parent_set": "set_forbiddenfruit_nobuild_playlists",
+                "play_history_override": "set_forbiddenfruit_nobuild_playlists",
+                "block_cascading_data": "true",
+                "image_url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg",
+                "product_tag": "Product.ForbiddenFruit.NoBuild",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/solosize-480-480x270-bd71a8aecb8f.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/solosize-256-256x144-9e4ba5075e53.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/solosize-640-640x360-0062a2e4e8b4.jpg",
+                    "url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_forbiddenfruitnobuildbrsolo"
+                },
+                "title": "Lone Wolf"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2025-05-15T03:14:43.801Z",
+            "published": "2025-05-15T03:14:43.801Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2025-05-15T03:14:43.804Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        },
+        "playlist_forbiddenfruitnobuildbrstackpc": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "playlist_forbiddenfruitnobuildbrstackpc",
+            "linkType": "BR:Playlist",
+            "metadata": {
+                "matchmakingV2": {
+                    "allowSquadFillOption": true,
+                    "allowJoinInProgress": false,
+                    "crossplayRequired": true,
+                    "maxPlayers": 30,
+                    "ratingType": "forbiddenfruit_nobuild",
+                    "maxSocialPartySize": 6,
+                    "isRanked": false,
+                    "maxTeamCount": 30,
+                    "allowPrivateMatches": false,
+                    "maxTeamSize": 6
+                },
+                "parent_set": "set_forbiddenfruit_nobuild_playlists",
+                "favorite_override": "set_forbiddenfruit_nobuild_playlists",
+                "alt_title": {
+                    "de": "Marathon mit Monster",
+                    "ru": "Марафон с Редбуллом",
+                    "ko": "레드불과 함께하는 마라톤",
+                    "pt-BR": "Maratona com Monster",
+                    "zh-hans": "红牛马拉松",
+                    "en": "Marathon with Monster",
+                    "it": "Maratona con Monster",
+                    "fr": "Marathon avec Monster",
+                    "zh-CN": "红牛马拉松",
+                    "es": "Maratón con Monster",
+                    "es-MX": "Maratón con Monster",
+                    "zh": "红牛马拉松",
+                    "ar": "ماراثون مع ريدبول",
+                    "zh-Hant": "紅牛馬拉松",
+                    "vi": "Marathon cùng Monster",
+                    "th": "มาราธอนกับเรดบูล",
+                    "ja": "レッドブルとマラソン",
+                    "id": "Maraton dengan Monster",
+                    "pl": "Maraton z Monsterem",
+                    "es-419": "Maratón con Monster",
+                    "tr": "Monster ile Maraton"
+                },
+                "play_history_override": "set_forbiddenfruit_nobuild_playlists",
+                "block_cascading_data": "true",
+                "image_url": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-sixstacks-1920x1080-1920x1080-ee137ffa7575.jpg",
+                "product_tag": "Product.ForbiddenFruit.NoBuild",
+                "image_urls": {
+                    "url_s": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-sixstacks-480x270-480x270-cd71ff358387.jpg",
+                    "url_xs": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-sixstacks-256x144-256x144-682d97e810cb.jpg",
+                    "url_m": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-sixstacks-640x360-640x360-1ef0568c75dc.jpg",
+                    "url": "https://cdn2.unrealengine.com/fneco-36-20-forbiddenfruit-squadsizeicon-sixstacks-1920x1080-1920x1080-ee137ffa7575.jpg"
+                },
+                "matchmaking": {
+                    "override_playlist": "playlist_forbiddenfruitnobuildbrstackpc"
+                },
+                "title": "Gamer Marathon with Monster"
+            },
+            "version": 1,
+            "active": true,
+            "disabled": false,
+            "created": "2025-07-15T21:48:58.431Z",
+            "published": "2025-07-15T21:48:58.431Z",
+            "descriptionTags": [],
+            "moderationStatus": "Unmoderated",
+            "lastActivatedDate": "2025-07-15T21:48:58.436Z",
+            "discoveryIntent": "PUBLIC",
+            "linkState": "LIVE"
+        }
+    }
+}
