@@ -1,0 +1,310 @@
+{
+    "parentLinks": [],
+    "links": {
+        "campaign": {
+            "namespace": "fn",
+            "accountId": "epic",
+            "creatorName": "Epic",
+            "mnemonic": "campaign",
+            "linkType": "SubGame",
+            "metadata": {
+                "ownership_token": "Token:campaignaccess",
+                "lobby_background_image_urls": {
+                    "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMotherLobby.jpg?raw=true"
+                },
+                "blog_category": "save-the-world",
+                "image_url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                "genre_labels": [
+                    "Survival"
+                ],
+                "alt_introduction": {
+                    "de": "Kämpfe, um deine Mutter vor den heranstürmenden Monstern zu retten, und erkunde eine riesige, zerstörbare Welt. Baue gigantische Festungen, stelle exotische Waffen her, finde Beute und steige im Level auf!",
+                    "ru": "Сражайтесь, чтобы спасти свою мать от наступающих монстров, и исследуйте огромный разрушимый мир. Стройте гигантские форты, создавайте экзотическое оружие, находите добычу и повышайте уровень!",
+                    "ko": "어머니를 괴물 무리로부터 구하기 위해 싸우고, 모든 걸 파괴할 수 있는 거대한 세계를 탐험하세요. 거대한 요새를 건설하고, 이국적인 무기를 제작하고, 전리품을 찾아 레벨을 올리세요!",
+                    "zh-hant": "為了拯救你的母親，與怪物大軍作戰，探索一個廣闊且可摧毀的世界。建造巨大的堡壘、製作異國武器、尋找戰利品並升級！",
+                    "pt-BR": "Lute para salvar sua mãe das hordas de monstros em um mundo gigantesco e destrutível. Construa fortalezas titânicas, crie armas exóticas, encontre o botim e suba de nível!",
+                    "zh-hans": "为拯救你的母亲与怪物大军作战，探索一个广阔且可破坏的世界。建造巨大的堡垒、制作异国武器、寻找战利品并升级！",
+                    "it": "Combatti per salvare tua madre dalle orde di mostri e esplora un mondo vasto e distruttibile. Costruisci fortezze colossali, crea armi esotiche, trova bottino e sali di livello!",
+                    "fr": "Combattez pour sauver votre mère des hordes de monstres et explorez un vaste monde destructible. Bâtissez des forteresses titanesques, fabriquez des armes exotiques, trouvez du butin et montez en niveau !",
+                    "es": "Lucha con todo para salvar a tu madre de las aterradoras hordas de monstruos en un mundo gigantesco a punto de colapsar. Construye fortalezas titánicas, forja armas exóticas y explora cada rincón buscando el botín. Sube de nivel, enfréntate a peligros inimaginables y desata tu poder para proteger a la persona más importante de tu vida.",
+                    "ar": "قاتل لإنقاذ والدتك من جحافل الوحوش واستكشف عالمًا شاسعًا قابلًا للتدمير. ابنِ حصونًا ضخمة واصنع أسلحة غريبة وابحث عن الغنائم وارتقِ بمستواك!",
+                    "vi": "Chiến đấu để cứu mẹ bạn khỏi lũ quái vật và thám hiểm một thế giới bao la có thể bị phá hủy. Xây dựng pháo đài khổng lồ, chế tạo vũ khí kỳ lạ, tìm chiến lợi phẩm và lên cấp!",
+                    "th": "ต่อสู้เพื่อช่วยแม่ของคุณจากฝูงสัตว์ประหลาดและสำรวจโลกกว้างที่สามารถทำลายได้ สร้างป้อมขนาดยักษ์ คราฟต์อาวุธแปลกๆ หาของปล้นและอัปเลเวล!",
+                    "ja": "あなたの母を怪物の群れから救うために戦い、壊せる広大な世界を探索しよう。巨大な砦を建て、エキゾチックな武器をクラフトし、戦利品を手に入れてレベルアップしよう！",
+                    "id": "Bertarung untuk menyelamatkan ibumu dari gerombolan monster dan menjelajahi dunia luas yang dapat dihancurkan. Bangun benteng besar, buat senjata eksotis, temukan jarahan, dan tingkatkan levelmu!",
+                    "pl": "Walcz, aby uratować swoją matkę przed hordami potworów i odkrywaj ogromny, zniszczalny świat. Buduj olbrzymie fortece, twórz egzotyczną broń, znajduj łupy i awansuj na wyższy poziom!",
+                    "es-419": "Lucha para salvar a tu madre de las hordas de monstruos mientras exploras un mundo grande y destructible. Construye fortalezas enormes, fabrica armas exóticas, encuentra botín y sube de nivel.",
+                    "tr": "Anneni canavar sürülerinden kurtarmak için savaş ve yıkılabilir dev bir dünyayı keşfet. Devasa kaleler inşa et, egzotik silahlar yap, ganimet bul ve seviye atla!"
+                },
+                "image_urls": {
+                    "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                    "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                    "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                },
+                "locale": "en",
+                "title": "Save Ur Mother",
+                "matchmaking": {
+                    "joinInProgressType": "JoinImmediately",
+                    "playersPerTeam": 4,
+                    "maximumNumberOfPlayers": 4,
+                    "override_Playlist": "",
+                    "playerCount": 4,
+                    "mmsType": "keep_full",
+                    "mmsPrivacy": "Public",
+                    "numberOfTeams": 1,
+                    "bAllowJoinInProgress": true,
+                    "minimumNumberOfPlayers": 1,
+                    "joinInProgressTeam": 1
+                },
+                "video_vuid": "FafeDLtfnvVWWmOFzQ",
+                "disallowedPlatforms": [
+                    "IOS",
+                    "Android",
+                    "Switch",
+                    "Switch2",
+                    "GFNMobile",
+                    "HeliosMobile",
+                    "LunaMobile"
+                ],
+                "activated_public_date": "2023-11-03T00:00:00.000Z",
+                "alt_image_urls": {
+                    "de": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "ru": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "ko": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "zh-hant": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "pt-BR": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "zh-hans": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "it": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "fr": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "es": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "ar": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "vi": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "th": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    },
+                    "ja": {
+                        "url_s": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url_m": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true",
+                        "url": "https://github.com/Kira-Kohler/K1R4FN-API/blob/main/SaveUrMother.png?raw=true"
+                    }
+                },
+                "alt_title": {
+                    "de": "Rette deine Mutter",
+                    "ru": "Спаси свою маму",
+                    "ko": "네 어머니를 구하세요",
+                    "zh-hant": "拯救你的母親",
+                    "pt-BR": "Salve sua mãe",
+                    "zh-hans": "拯救你的母亲",
+                    "it": "Salva tua madre",
+                    "fr": "Sauve ta mère",
+                    "es": "Salva a tu madre",
+                    "ar": "أنقِذ والدتك",
+                    "vi": "Cứu mẹ bạn",
+                    "th": "ช่วยแม่ของคุณ",
+                    "ja": "あなたの母を救って",
+                    "id": "Selamatkan Ibumu",
+                    "pl": "Uratuj swoją matkę",
+                    "es-419": "Salva a tu madre",
+                    "tr": "Anneni Kurtar"
+                },
+                "alt_tagline": {
+                    "de": "Kämpfe, um deine Mutter vor den heranstürmenden Monstern zu retten, und erkunde eine riesige, zerstörbare Welt. Baue gigantische Festungen, stelle exotische Waffen her, finde Beute und steige im Level auf!",
+                    "ru": "Сражайтесь, чтобы спасти свою мать от наступающих монстров, и исследуйте огромный разрушимый мир. Стройте гигантские форты, создавайте экзотическое оружие, находите добычу и повышайте уровень!",
+                    "ko": "어머니를 괴물 무리로부터 구하기 위해 싸우고, 모든 걸 파괴할 수 있는 거대한 세계를 탐험하세요. 거대한 요새를 건설하고, 이국적인 무기를 제작하고, 전리품을 찾아 레벨을 올리세요!",
+                    "zh-hant": "為了拯救你的母親，與怪物大軍作戰，探索一個廣闊且可摧毀的世界。建造巨大的堡壘、製作異國武器、尋找戰利品並升級！",
+                    "pt-BR": "Lute para salvar sua mãe das hordas de monstros em um mundo gigantesco e destrutível. Construa fortalezas titânicas, crie armas exóticas, encontre o botim e suba de nível!",
+                    "zh-hans": "为拯救你的母亲与怪物大军作战，探索一个广阔且可破坏的世界。建造巨大的堡垒、制作异国武器、寻找战利品并升级！",
+                    "it": "Combatti per salvare tua madre dalle orde di mostri e esplora un mondo vasto e distruttibile. Costruisci fortezze colossali, crea armi esotiche, trova bottino e sali di livello!",
+                    "fr": "Combattez pour sauver votre mère des hordes de monstres et explorez un vaste monde destructible. Bâtissez des forteresses titanesques, fabriquez des armes exotiques, trouvez du butin et montez en niveau !",
+                    "es": "Lucha con todo para salvar a tu madre de las aterradoras hordas de monstruos en un mundo gigantesco a punto de colapsar. Construye fortalezas titánicas, forja armas exóticas y explora cada rincón buscando el botín. Sube de nivel, enfréntate a peligros inimaginables y desata tu poder para proteger a la persona más importante de tu vida.",
+                    "ar": "قاتل لإنقاذ والدتك من جحافل الوحوش واستكشف عالمًا شاسعًا قابلًا للتدمير. ابنِ حصونًا ضخمة واصنع أسلحة غريبة وابحث عن الغنائم وارتقِ بمستواك!",
+                    "vi": "Chiến đấu để cứu mẹ bạn khỏi lũ quái vật và thám hiểm một thế giới bao la có thể bị phá hủy. Xây dựng pháo đài khổng lồ, chế tạo vũ khí kỳ lạ, tìm chiến lợi phẩm và lên cấp!",
+                    "th": "ต่อสู้เพื่อช่วยแม่ของคุณจากฝูงสัตว์ประหลาดและสำรวจโลกกว้างที่สามารถทำลายได้ สร้างป้อมขนาดยักษ์ คราฟต์อาวุธแปลกๆ หาของปล้นและอัปเลเวล!",
+                    "ja": "あなたの母を怪物の群れから救うために戦い、壊せる広大な世界を探索しよう。巨大な砦を建て、エキゾチックな武器をクラフトし、戦利品を手に入れてレベルアップしよう！",
+                    "id": "Bertarung untuk menyelamatkan ibumu dari gerombolan monster dan menjelajahi dunia luas yang dapat dihancurkan. Bangun benteng besar, buat senjata eksotis, temukan jarahan, dan tingkatkan levelmu!",
+                    "pl": "Walcz, aby uratować swoją matkę przed hordami potworów i odkrywaj ogromny, zniszczalny świat. Buduj olbrzymie fortece, twórz egzotyczną broń, znajduj łupy i awansuj na wyższy poziom!",
+                    "es-419": "Lucha para salvar a tu madre de las hordas de monstruos mientras exploras un mundo grande y destructible. Construye fortalezas enormes, fabrica armas exóticas, encuentra botín y sube de nivel.",
+                    "tr": "Anneni canavar sürülerinden kurtarmak için savaş ve yıkılabilir dev bir dünyayı keşfet. Devasa kaleler inşa et, egzotik silahlar yap, ganimet bul ve seviye atla!"
+                },
+                "product_tag": "Product.STW",
+                "ratings": {
+                    "rating_received_time": "2023-11-16T00:23:36.625Z",
+                    "boards": {
+                        "ACB": {
+                            "descriptors": [
+                                "ACB_Violence",
+                                "ACB_GEMCO"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "ACB_AGE_M",
+                            "initial_rating": "ACB_AGE_M",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "CERO": {
+                            "descriptors": [
+                                "CERO_Violence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "CERO_AGE_15",
+                            "initial_rating": "CERO_AGE_15",
+                            "interactive_elements": []
+                        },
+                        "PEGI": {
+                            "descriptors": [
+                                "PEGI_ModerateViolence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "PEGI_AGE_12",
+                            "initial_rating": "PEGI_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "Generic": {
+                            "descriptors": [
+                                "GEN_ModerateViolence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "GEN_AGE_12",
+                            "initial_rating": "GEN_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "ClassInd": {
+                            "descriptors": [
+                                "ClassInd_Violencia"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "CLASSIND_AGE_12",
+                            "initial_rating": "CLASSIND_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "GRAC": {
+                            "descriptors": [
+                                "GRAC_Violence_v7_1"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "GRAC_AGE_12",
+                            "initial_rating": "GRAC_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "USK": {
+                            "descriptors": [
+                                "USK_FantasyGewalt_v9_0"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "USK_AGE_12",
+                            "initial_rating": "USK_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "ESRB": {
+                            "descriptors": [
+                                "ESRB_Violence"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "ESRB_AGE_T",
+                            "initial_rating": "ESRB_AGE_T",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        },
+                        "Russia": {
+                            "descriptors": [
+                                "RUS_Violence_v7_0"
+                            ],
+                            "rating_overridden": false,
+                            "rating": "RUSSIA_AGE_12",
+                            "initial_rating": "RUSSIA_AGE_12",
+                            "interactive_elements": [
+                                "IE_UsersInteract",
+                                "IE_InGamePurchases_v7_1"
+                            ]
+                        }
+                    }
+                },
+                "tagline": "Fight to save your mother from the terrifying hordes of monsters in a massive, collapsing world. Build titanic fortresses, forge exotic weapons, and explore every corner searching for loot. Level up, face unimaginable dangers, and unleash your power to protect the most important person in your life!",
+                "dynamicXp": {
+                    "uniqueGameVersion": "5",
+                    "calibrationPhase": "LiveXp"
+                },
+                "web_slug": "save-the-world",
+                "category_labels": [
+                    "Survival"
+                ],
+                "introduction": "Fight to save your mother from the terrifying hordes of monsters in a massive, collapsing world. Build titanic fortresses, forge exotic weapons, and explore every corner searching for loot. Level up, face unimaginable dangers, and unleash your power to protect the most important person in your life!"
+            },
+            "version": 5,
+            "active": true,
+            "disabled": false,
+            "created": "2021-10-01T15:06:32.241Z",
+            "published": "2021-08-25T20:02:50.051Z",
+            "descriptionTags": [
+                "pve"
+            ],
+            "moderationStatus": "Approved",
+            "discoveryIntent": "PUBLIC"
+        }
+    }
+}
